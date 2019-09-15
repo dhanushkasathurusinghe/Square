@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">Appoinment Details</string>
-    <string name="key1">create</string>
-    <string name="key2">Delete</string>
-    <string name="key3">Update</string>
-    <string name="key4">delete</string>
+    <string name="key1">App Id</string>
+    <string name="key2">Appt Details</string>
+    <string name="key3">Date</string>
+    <string name="key4">Time</string>
+    <string name="key5">CREATE</string>
+    <string name="key6">DELETE</string>
+    <string name="key7">App Id</string>
+    <string name="key8">App Details</string>
+    <string name="key9">Date</string>
+    <string name="key10">Time</string>
+    <string name="key11">UPDATE</string>
+    <string name="key12">OK</string>
 </resources>
